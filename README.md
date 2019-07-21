@@ -2,6 +2,8 @@
 
 <a href="https://doi.org/10.5281/zenodo.3344947"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3344947.svg" alt="DOI"></a>
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3770-1391" href="https://orcid.org/0000-0002-3770-1391" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-3770-1391</a></div><br>
+
 Please see <a href="https://github.com/shah314/multidimensionalknapsack/blob/master/GeneticKnapsack.pdf">this paper</a>.
 
 <p>The 0/1 multidimensional knapsack problem is the 0/1 knapsack problem with m constraints which makes it difficult to solve using traditional methods like dynamic programming or branch and bound algorithms. We present a genetic algorithm for the multidimensional knapsack problem with Java code that is able to solve publicly available instances in a very short computational duration. Our algorithm uses iteratively computed Lagrangian multipliers as constraint weights to augment the greedy algorithm for the multidimensional knapsack problem and uses that information in a greedy crossover in a genetic algorithm. The algorithm uses several other hyperparameters which can be set in the code to control convergence. Our algorithm improves upon the algorithm by Chu and Beasley in that it converges to optimum or near optimum solutions much faster.</p>
