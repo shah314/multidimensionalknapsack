@@ -6,10 +6,10 @@
 
 <h3>References</h3>
 
-[1] Chu, Paul C., and John E. Beasley. "A genetic algorithm for the multidimensional knapsack problem." Journal of heuristics 4.1 (1998): 63-86.<br>
-[2] Shah, Shalin. "Genetic Algorithm for a class of Knapsack Problems." arXiv preprint arXiv:1903.03494 (2019).<br>
-[3] http://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/mknap2.txt<br>
-[4] https://github.com/shah314/gamultiknapsack<br>
-[5] “A Monte-Carlo study of genetic algorithm initial population generation methods”, R. Hill, Proceedings of the 31st conference on winter simulation: Simulation---a bridge to the future - Volume 1, 1999, 543--547 (1999)<br>
-[6] “Optimization by simulated annealing”, S. Kirkpatrick, Science, Number 4598, 13 May 1983, volume 220, 4598, 671--680 (1983) <br>
-[7] “Theoretical and Numerical Constraint Handling Techniques used with Evolutionary Algorithms: A Survey of the State of the Art”, C. Coello, Computer Methods in Applied Mechanics and Engineering, 191 (11--12), 1245-1287, January 2002 (2002)<br>
+[1] Chu, Paul C., and John E. Beasley. "A genetic algorithm for the multidimensional knapsack problem." Journal of heuristics 4.1 (1998): 63-86.<br><br>
+[2] Shah, Shalin. "Genetic Algorithm for a class of Knapsack Problems." arXiv preprint arXiv:1903.03494 (2019).<br><br>
+[3] http://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/mknap2.txt<br><br>
+[4] https://github.com/shah314/gamultiknapsack<br><br>
+[5] “A Monte-Carlo study of genetic algorithm initial population generation methods”, R. Hill, Proceedings of the 31st conference on winter simulation: Simulation---a bridge to the future - Volume 1, 1999, 543--547 (1999)<br><br>
+[6] “Optimization by simulated annealing”, S. Kirkpatrick, Science, Number 4598, 13 May 1983, volume 220, 4598, 671--680 (1983) <br><br>
+[7] “Theoretical and Numerical Constraint Handling Techniques used with Evolutionary Algorithms: A Survey of the State of the Art”, C. Coello, Computer Methods in Applied Mechanics and Engineering, 191 (11--12), 1245-1287, January 2002 (2002)<br><br>
